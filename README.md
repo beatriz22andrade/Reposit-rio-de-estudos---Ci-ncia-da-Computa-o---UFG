@@ -7,6 +7,7 @@ Este repositório reúne materiais, anotações, exercícios resolvidos e projet
 ## 📂 Conteúdo por Disciplina
 
 - **Introdução a Programação**
+  
   Linguagem C, condicionais, repetição, vetores, funções, ponteiros, string, matrizes, recursividade, structs e alocação de memória.
   
 - **Cálculo 1A (James Stewart - 7ª Edição)**  
